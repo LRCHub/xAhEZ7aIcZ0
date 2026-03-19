@@ -1,4 +1,4 @@
-# ZIGGY – ZIGGY「GLORIA」
+# ZIGGY – GLORIA
 
 > **歌詞登録ステータス：同期歌詞あり**
 
