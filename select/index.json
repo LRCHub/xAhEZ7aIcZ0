@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "base_track": "GLORIA",
+  "base_artist": "ZIGGY",
+  "createdAt": "2026-03-19T09:11:41.051574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "¿Viva La Gloria? (Little Girl)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_¿Viva_La_Gloria__(Little_Girl)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Viva La Gloria (Little Girl)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_Viva_La_Gloria_(Little_Girl)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "¡Viva La Gloria!",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/03_¡Viva_La_Gloria!_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Viva La Gloria!",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/04_Viva_La_Gloria!_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gloria, Lonely Boy",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/05_Gloria,_Lonely_Boy_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gloria",
+      "artist": "Elastica",
+      "has_synced": true,
+      "path": "select/06_Gloria_Elastica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gloria (live, 1995-07-11: Tokyo)",
+      "artist": "Elastica",
+      "has_synced": false,
+      "path": "select/07_Gloria_(live,_1995-07-11__Tokyo)_Elastica.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gloria",
+      "artist": "Junkie XL feat. Datarock",
+      "has_synced": false,
+      "path": "select/08_Gloria_Junkie_XL_feat._Datarock.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gloria (feat DATAROCK)",
+      "artist": "Junkie XL",
+      "has_synced": false,
+      "path": "select/09_Gloria_(feat_DATAROCK)_Junkie_XL.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gloria",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/10_Gloria_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gloria",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/11_Gloria_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gloria '85",
+      "artist": "Andrew Cedermark",
+      "has_synced": false,
+      "path": "select/12_Gloria_'85_Andrew_Cedermark.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gloria, Can You Waddle",
+      "artist": "Boney M.",
+      "has_synced": true,
+      "path": "select/13_Gloria,_Can_You_Waddle_Boney_M..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gloria",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/14_Gloria_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Angels We Have Heard On High (Gloria)",
+      "artist": "REO Speedwagon",
+      "has_synced": true,
+      "path": "select/15_Angels_We_Have_Heard_On_High_(Gloria)_REO_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gloria",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/16_Gloria_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gloria",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/17_Gloria_U2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GLORIA",
+      "artist": "ZIGGY",
+      "has_synced": false,
+      "path": "select/pl_01_GLORIA_ZIGGY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "GLORIA",
+      "artist": "ZIGGY",
+      "has_synced": true,
+      "path": "select/localdb_01_GLORIA_ZIGGY.lrc",
+      "repo_name": "DDlC22Exc8I"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "GLORIA",
+      "artist": "ZIGGY",
+      "has_synced": true,
+      "path": "select/localdb_02_GLORIA_ZIGGY.lrc",
+      "repo_name": "xAhEZ7aIcZ0"
+    }
+  ]
+}
